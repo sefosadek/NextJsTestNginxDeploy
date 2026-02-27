@@ -6,7 +6,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "preview": "npx serve out -l 3000",
     "lint": "eslint"
   },
   "dependencies": {
